@@ -3,4 +3,4 @@
 
 - 👨‍💻 Atualmente cursando Sistemas para Internet - FATECRL 
 - 💻 Técnico de informática pela ETEC Aristóteles de Ferreira
-- 📊  Estágiário (Dados e Conteúdo) na BDS Datasolution
+- 🍊 Desenvolvedor Trainee na FCamara - Formação e Consultoria
