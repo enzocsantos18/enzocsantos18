@@ -3,4 +3,4 @@
 
 - 👨‍💻 Atualmente cursando Sistemas para Internet - FATECRL 
 - 💻 Técnico de informática pela ETEC Aristóteles de Ferreira
-- 🍊 Desenvolvedor Trainee na FCamara - Formação e Consultoria
+- 🍊 Desenvolvedor Júnior na FCamara - Formação e Consultoria
